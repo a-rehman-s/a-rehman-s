@@ -1,18 +1,32 @@
 <div align="center">
 
-# Hi 👋 I'm Abdur Rehman Saeed
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,35:2563EB,70:06B6D4,100:22D3EE&text=Abdur%20Rehman%20Saeed&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Computer%20Engineering%20Student%20|%20AI%20Engineer%20|%20Embedded%20Systems%20Developer&descAlignY=58&animation=fadeIn"/>
 
-### Computer Engineering Student • AI Engineer • Embedded Systems Developer
+# 👋 Hi, I'm Abdur Rehman Saeed
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;IT+Intern+@+Pakistan+Ordnance+Factories;Artificial+Intelligence+Developer;Machine+Learning+Engineer;Embedded+Systems+%26+Robotics;Python+%7C+Java+%7C+C%2B%2B+Developer;Building+Technology+that+Solves+Real+Problems"/>
+### Computer Engineering Student • AI & Machine Learning • Embedded Systems • Robotics • Software Engineering
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=IT+Intern+%40+Pakistan+Ordnance+Factories;Artificial+Intelligence+Developer;Machine+Learning+Engineer;Python+%7C+Java+%7C+C%2B%2B+Developer;Building+Practical+Engineering+Solutions"/>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO)
+<a href="https://github.com/a-rehman-s">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arehmans1)
+<a href="https://linkedin.com/in/arehmans1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/a-rehman-s)
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=a-rehman-s&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
 </div>
 
@@ -22,108 +36,153 @@
 
 🎓 Computer Engineering Student at **UET Taxila**
 
-💼 IT Intern at **Pakistan Ordnance Factories (POF)**
+💼 Currently serving as an **IT Intern at Pakistan Ordnance Factories (POF)**
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Robotics and Embedded Systems.
+🤖 Passionate about designing intelligent systems by combining **Artificial Intelligence**, **Machine Learning**, **Embedded Systems**, and **Software Engineering**.
 
-💡 I enjoy building intelligent systems that combine software, electronics and mechanical design.
+🚀 I enjoy building practical engineering solutions—from AI-powered applications to robotics, automation, and full-stack software.
 
 ---
 
-# 🚀 Currently Working On
+# 🚀 Current Focus
 
-- 🌦️ WeatherMind
-- ⛏️ AI Mine Detector
-- 🤖 Autonomous Robotics
-- 📊 Machine Learning Models
-- 🌐 Personal Portfolio
+- 🌦️ AI Weather Forecasting
+- 🤖 Computer Vision
+- 🧠 Machine Learning
+- ⚙️ Embedded Systems
+- 🔌 Arduino & IoT
+- 🌐 Full Stack Development
+- 📊 Data Analytics
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+## Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,html,css,mysql"/>
 
 </p>
 
 ---
 
-### Frameworks & Libraries
+## AI / Machine Learning
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flask,nodejs,opencv,tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
 </p>
+
+**Libraries**
 
 - Scikit-Learn
 - Pandas
 - NumPy
+- OpenCV
 - XGBoost
 - Matplotlib
 
 ---
 
-### Tools
+## Embedded Systems
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,arduino"/>
+<img src="https://skillicons.dev/icons?i=arduino"/>
 
 </p>
+
+- Arduino UNO
+- Arduino Nano
+- AVR Programming
+- Embedded C
+- NRF24L01
+- L298N
+- Sensors Integration
+
+---
+
+## Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,matlab"/>
+
+</p>
+
+Also experienced with:
+
+- SolidWorks
+- Proteus
+- Multisim
+- LTSpice
 
 ---
 
 # ⭐ Featured Projects
 
 | Project | Description |
-|----------|-------------|
-| 🌦️ WeatherMind | Multi-City AI Weather Forecasting Dashboard |
-| ⛏️ Mine Detector | AI-powered Computer Vision Detection System |
-| 📈 Stock Price Prediction | Machine Learning Prediction Model |
-| 🧠 Mental Health Chatbot | AI-powered NLP Chatbot |
-| 💼 Freelance Management System | Database Management Project |
-| 🌐 Portfolio Website | Personal Developer Portfolio |
+|---------|-------------|
+| 🌦️ **WeatherMind** | Multi-City AI Weather Forecasting Dashboard |
+| ⛏️ **Mine Detector** | AI-powered Computer Vision Detection System |
+| 📈 **Stock Price Prediction** | Machine Learning Prediction Model |
+| 🧠 **Mental Health Chatbot** | AI-powered NLP Chatbot |
+| 💼 **Freelance Management System** | Database Management System |
+| 🌐 **Portfolio Website** | Personal Developer Portfolio |
 
 ---
 
-# 📊 GitHub Stats
+# 📚 Interests
+
+```text
+Artificial Intelligence
+Machine Learning
+Computer Vision
+Deep Learning
+Embedded Systems
+Robotics
+Internet of Things
+SolidWorks CAD
+Automation
+Software Engineering
+Data Science
+Cloud Technologies
+```
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=a-rehman-s&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=a-rehman-s&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=a-rehman-s&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
-
-# 💻 Most Used Languages
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-rehman-s&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-rehman-s&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=a-rehman-s&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=a-rehman-s&theme=algolia&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -133,25 +192,19 @@
 
 ---
 
-# 🧠 Areas of Interest
+# 💻 Currently Learning
 
-```text
-Artificial Intelligence
-Machine Learning
-Deep Learning
-Computer Vision
-Embedded Systems
-Robotics
-IoT
-SolidWorks
-Automation
-Data Science
-Full Stack Development
-```
+- Deep Learning
+- LLM Applications
+- Reinforcement Learning
+- Cloud Deployment
+- Computer Vision
+- Robotics
+- MLOps
 
 ---
 
-# 📫 Connect with Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -159,24 +212,30 @@ Full Stack Development
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:YOUR_EMAIL@example.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/a-rehman-s">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-# 💭 Favorite Quote
+# 💡 Quote
 
-> "Engineering is the art of turning ideas into impact."
+> *"Engineering is about transforming ideas into intelligent, practical solutions that create real-world impact."*
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=a-rehman-s&label=Profile+Views&color=0e75b6&style=flat"/>
-
 ### ⭐ Thanks for visiting my profile!
+
+*"Always learning. Always building."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,35:2563EB,70:06B6D4,100:22D3EE"/>
 
 </div>
