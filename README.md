@@ -151,35 +151,6 @@ Software Engineering
 Data Science
 Cloud Technologies
 ```
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=a-rehman-s&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=a-rehman-s&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-rehman-s&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=a-rehman-s&theme=algolia&row=2&column=4"/>
-
-</p>
-
 ---
 
 # 📊 Contribution Graph
