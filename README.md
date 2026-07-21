@@ -1,233 +1,123 @@
-# Hi there, I'm Abdur Rehman Saeed 👋
-
 <div align="center">
 
-### Computer Engineering Student | AI & Machine Learning | Embedded Systems | Robotics | Full Stack Development
+# Hi 👋 I'm Abdur Rehman Saeed
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;AI+%7C+Machine+Learning+Developer;Embedded+Systems+%26+Robotics+Enthusiast;SolidWorks+Designer;Always+Learning+Something+New" />
+### Computer Engineering Student • AI Engineer • Embedded Systems Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Computer+Engineering+Student;IT+Intern+@+Pakistan+Ordnance+Factories;Artificial+Intelligence+Developer;Machine+Learning+Engineer;Embedded+Systems+%26+Robotics;Python+%7C+Java+%7C+C%2B%2B+Developer;Building+Technology+that+Solves+Real+Problems"/>
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arehmans1)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/a-rehman-s)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-🎓 Computer Engineering Student at **University of Engineering & Technology (UET), Taxila**
+🎓 Computer Engineering Student at **UET Taxila**
 
 💼 IT Intern at **Pakistan Ordnance Factories (POF)**
 
-💡 Passionate about solving real-world engineering problems through software and hardware.
+🤖 Passionate about Artificial Intelligence, Machine Learning, Robotics and Embedded Systems.
 
-🌱 Currently learning
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Embedded Systems
-- Robotics
-- Full Stack Development
-
-⚡ Interests
-
-- AI Applications
-- Autonomous Robots
-- Embedded Programming
-- PCB Design
-- SolidWorks CAD
-- IoT Systems
-- Data Science
-- Automation
+💡 I enjoy building intelligent systems that combine software, electronics and mechanical design.
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Currently Working On
 
-## Programming Languages
+- 🌦️ WeatherMind
+- ⛏️ AI Mine Detector
+- 🤖 Autonomous Robotics
+- 📊 Machine Learning Models
+- 🌐 Personal Portfolio
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,matlab,html,css,javascript,mysql" />
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css,mysql"/>
+
 </p>
 
 ---
 
-## AI / Machine Learning
+### Frameworks & Libraries
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flask,nodejs,opencv,tensorflow,pytorch"/>
+
 </p>
-
-Libraries
 
 - Scikit-Learn
-- XGBoost
 - Pandas
 - NumPy
-- Matplotlib
-- OpenCV
-
----
-
-## Embedded Systems
-
-- Arduino UNO
-- Arduino Nano
-- AVR ATmega32
-- ATmega328P
-- Embedded C
-- Sensors Integration
-- Motor Drivers
-- Wireless Communication
-
----
-
-## CAD & Simulation
-
-<p>
-<img src="https://skillicons.dev/icons?i=solidworks" />
-</p>
-
-- SolidWorks
-- Proteus
-- Multisim
-- LTSpice
-- MATLAB
-- Simulink
-
----
-
-## Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,windows,maven" />
-</p>
-
----
-
-# 🛠 Featured Projects
-
-## 🤖 Autonomous Light Finder & Follower Robot
-
-A smart autonomous robot capable of:
-
-- Light Detection
-- Obstacle Avoidance
-- Speed Measurement
-- OLED Display
-- Wireless Communication
-- Environmental Monitoring
-
-### Technologies
-
-- Arduino
-- NRF24L01
-- L298N
-- ADXL345
-- DHT22
-- SSD1306 OLED
-- IR Speed Sensors
-- Ultrasonic Sensors
-
----
-
-## 🧠 Machine Learning Projects
-
-### Adult Income Prediction
-
-- Data Cleaning
-- Feature Engineering
-- Random Forest
 - XGBoost
-- Model Evaluation
-- Accuracy Optimization
+- Matplotlib
 
 ---
 
-### Forest Cover Type Classification
-
-- Multi-Class Classification
-- Data Visualization
-- Feature Selection
-- Model Comparison
-
----
-
-## 💻 Java Desktop Applications
-
-### Attendance Management System
-
-Features
-
-- Student Login
-- Admin Panel
-- Attendance Reports
-- MySQL Database
-- Java Swing GUI
-
----
-
-### Mess Management System
-
-Features
-
-- User Management
-- Monthly Bills
-- Expense Tracking
-- Reports
-
----
-
-## 🚗 Smart Parking Allocation System
-
-Python-based intelligent parking allocation system using efficient searching and optimization algorithms.
-
----
-
-## 📦 SolidWorks Designs
-
-- Delivery Box Assembly
-- Mechanical Components
-- Sheet Metal Designs
-- Engineering Models
-
----
-
-# 📚 Currently Exploring
-
-- Deep Learning
-- Computer Vision
-- Reinforcement Learning
-- Robotics
-- ROS
-- Cloud Computing
-- Generative AI
-- Large Language Models (LLMs)
-
----
-
-# 📊 GitHub Statistics
+### Tools
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,linux,arduino"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# ⭐ Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🌦️ WeatherMind | Multi-City AI Weather Forecasting Dashboard |
+| ⛏️ Mine Detector | AI-powered Computer Vision Detection System |
+| 📈 Stock Price Prediction | Machine Learning Prediction Model |
+| 🧠 Mental Health Chatbot | AI-powered NLP Chatbot |
+| 💼 Freelance Management System | Database Management Project |
+| 🌐 Portfolio Website | Personal Developer Portfolio |
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&row=2&column=4"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=a-rehman-s&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=a-rehman-s&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-rehman-s&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=a-rehman-s&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -237,40 +127,56 @@ Python-based intelligent parking allocation system using efficient searching and
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=a-rehman-s&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🌐 Connect with Me
+# 🧠 Areas of Interest
 
-<p align="left">
+```text
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Computer Vision
+Embedded Systems
+Robotics
+IoT
+SolidWorks
+Automation
+Data Science
+Full Stack Development
+```
+
+---
+
+# 📫 Connect with Me
+
+<p align="center">
 
 <a href="https://linkedin.com/in/arehmans1">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-## 💭 Quote
+# 💭 Favorite Quote
 
-> *"Engineering is not only about solving problems; it's about building solutions that make a difference."*
+> "Engineering is the art of turning ideas into impact."
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+<img src="https://komarev.com/ghpvc/?username=a-rehman-s&label=Profile+Views&color=0e75b6&style=flat"/>
 
-### Thanks for visiting! ⭐
-
-If you like my work, consider giving a ⭐ to my repositories.
+### ⭐ Thanks for visiting my profile!
 
 </div>
