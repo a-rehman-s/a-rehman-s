@@ -22,7 +22,7 @@
 <img src="https://img.sields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="arehmans-portfolio.vercel.app">
+<a href="[arehmans-portfolio.vercel.app](https://arehmans-portfolio.vercel.app/)">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
